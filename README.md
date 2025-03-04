@@ -1,6 +1,7 @@
 базовые команды.
 ssh pi@turtlebro(номер).local
 
+
 ls - чекнуть что внутри папки
 sd ~/(путь) - перейти в папку
 rostopic list/ rostopic echo /bat(пример)
